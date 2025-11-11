@@ -19,3 +19,8 @@ What player characteristics and behaviours are related to newsletter subscriptio
 
 Specific question:
 Do players with more experience or longer playtime tend to subscribe to the newsletter?
+## Methods Summary
+
+The project uses R to load, clean, and summarize the data.
+Simple descriptive statistics and visualizations are used to explore relationships between experience, playtime, and newsletter subscription.
+
