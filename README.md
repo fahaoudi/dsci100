@@ -10,3 +10,12 @@ The dataset includes two CSV files:
 - sessions.csv — information about each play session (start time, end time, duration, player ID).
 
 Data were collected automatically from a Minecraft research server at UBC.
+
+
+## Project Questions
+
+Broad question:
+What player characteristics and behaviours are related to newsletter subscription?
+
+Specific question:
+Do players with more experience or longer playtime tend to subscribe to the newsletter?
